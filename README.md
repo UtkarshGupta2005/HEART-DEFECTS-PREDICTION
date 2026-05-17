@@ -28,8 +28,6 @@ Model Training:
 Random Forest
 
 Hyperparameter Tuning:
-GridSearchCV
-RandomSearchCV
 Bayesian Optimization
 
 Model Evaluation:
